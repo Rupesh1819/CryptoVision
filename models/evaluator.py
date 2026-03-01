@@ -7,7 +7,6 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from config import THEME
